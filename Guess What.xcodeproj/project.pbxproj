@@ -14,6 +14,7 @@
 		7641A0221BF0DFCB0011B9C0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7641A0201BF0DFCB0011B9C0 /* LaunchScreen.storyboard */; };
 		7641A02D1BF0DFCB0011B9C0 /* Guess_WhatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7641A02C1BF0DFCB0011B9C0 /* Guess_WhatTests.swift */; };
 		7641A0381BF0DFCB0011B9C0 /* Guess_WhatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7641A0371BF0DFCB0011B9C0 /* Guess_WhatUITests.swift */; };
+		7641A0461BF0E6AD0011B9C0 /* images.png in Resources */ = {isa = PBXBuildFile; fileRef = 7641A0451BF0E6AD0011B9C0 /* images.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		7641A0331BF0DFCB0011B9C0 /* Guess WhatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Guess WhatUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7641A0371BF0DFCB0011B9C0 /* Guess_WhatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Guess_WhatUITests.swift; sourceTree = "<group>"; };
 		7641A0391BF0DFCB0011B9C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7641A0451BF0E6AD0011B9C0 /* images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = images.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		7641A0161BF0DFCB0011B9C0 /* Guess What */ = {
 			isa = PBXGroup;
 			children = (
+				7641A0451BF0E6AD0011B9C0 /* images.png */,
 				7641A0171BF0DFCB0011B9C0 /* AppDelegate.swift */,
 				7641A0191BF0DFCB0011B9C0 /* ViewController.swift */,
 				7641A01B1BF0DFCB0011B9C0 /* Main.storyboard */,
@@ -235,6 +238,7 @@
 				7641A0221BF0DFCB0011B9C0 /* LaunchScreen.storyboard in Resources */,
 				7641A01F1BF0DFCB0011B9C0 /* Assets.xcassets in Resources */,
 				7641A01D1BF0DFCB0011B9C0 /* Main.storyboard in Resources */,
+				7641A0461BF0E6AD0011B9C0 /* images.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
